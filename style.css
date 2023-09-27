@@ -102,3 +102,9 @@ ul li.checked {
 ul li.checked::before {
   background-color: #f94c10;
 }
+.footer{
+  color:#fff;
+  font-size: 1.2rem;
+  margin-top: 500px;
+}
+
