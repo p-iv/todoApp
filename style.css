@@ -104,7 +104,6 @@ ul li.checked::before {
 }
 .footer{
   color:#fff;
-  font-size: 1.2rem;
-  margin-top: 500px;
+  background-color:#000;
 }
 
