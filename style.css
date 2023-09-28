@@ -103,7 +103,6 @@ ul li.checked::before {
   background-color: #f94c10;
 }
 .footer{
-  width:100%;
   text-align:center;
   color:#fff;
   background-color:#000;
